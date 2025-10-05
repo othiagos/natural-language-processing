@@ -1,0 +1,11 @@
+# Ignore Python virtual environment
+.venv
+
+# Ignore VSCode settings
+.vscode
+
+# Ignore asdf version manager file
+.tool-versions
+
+# Ignore data directory
+data/

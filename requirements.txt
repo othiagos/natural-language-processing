@@ -1,0 +1,7 @@
+jupyter
+gensim
+ipykernel
+requests
+pandas
+matplotlib
+seaborn
